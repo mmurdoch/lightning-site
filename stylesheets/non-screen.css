@@ -8,7 +8,7 @@ div.shell {
 
 
 header {
-  max-width:640px;
+  max-width:480px;
   margin: 0;
   top: 51px;
 }
@@ -61,7 +61,7 @@ section#main_content {
 }
 
 footer {
-  max-width:640px;
+  max-width:480px;
   background: none;
 }
 
