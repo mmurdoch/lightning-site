@@ -114,7 +114,7 @@ header, footer, section {
 
 div.shell {
   display: block;
-  width: 670px;
+  width: 480px;
   margin: 0 auto;
 }
 
@@ -140,7 +140,7 @@ header {
   position: relative;
   z-index: 2;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 480px;
   top: 38px;
 }
 
@@ -263,7 +263,7 @@ span.banner-fix {
   display: block;
   height: 19px;
   position: absolute;
-  width: 670px;
+  width: 480px;
   top: 19px;
 }
 
